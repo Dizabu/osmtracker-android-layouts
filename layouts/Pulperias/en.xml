@@ -1,0 +1,10 @@
+<layout name="amenity">
+ <row>
+  <button ... />  
+  <button ... />
+ </row>
+ <row>
+  <button ... />
+  ...
+ </row>
+</layout>
