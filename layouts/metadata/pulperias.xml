@@ -1,4 +1,4 @@
 <metadata>
-    <option iso="es" name="English"> Map main maxspeed information driving around with car or motorbike. </option>
-    <github username="stoecker" repo="osmtracker-android-layouts" branch="master" />
+	<option iso = "es" name ="Español">Disposición con los elementos más comunes al mapear hidrantes.</option>
+	<github username="labexp" repo="osmtracker-android-layouts" branch="master" />
 </metadata>
