@@ -1,0 +1,14 @@
+<layouts>
+
+ <layout name="root">
+  <row>
+   <button type="..." label="..." (icon="...") (targetlayout="...") />
+   ...
+  </row>
+ </layout>
+
+ <layout name="...">
+  ...
+ </layout>
+
+</layouts>
